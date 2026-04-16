@@ -1,6 +1,6 @@
-# KB Agent - Knowledge Base System
+# Docs Wiki Agent - Knowledge Base System
 
-A powerful knowledge base agent system that ingests documents, builds a structured wiki, and enables intelligent querying using Claude AI.
+A powerful knowledge base agent system that ingests documents, builds a structured wiki, and enables intelligent querying - think wikipedia
 
 ## Overview
 
